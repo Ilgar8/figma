@@ -1,0 +1,116 @@
+#july {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    
+    background-color: #E9EBE1;
+
+    .box1 {
+        margin-top: 100px;
+
+        .boximg {
+            background-color: #FFFFFF;
+            width: 72%;
+        }
+
+        h3 {
+            height: 27px;
+            width: 120px;
+            left: 176px;
+            top: 705px;
+            border-radius: nullpx;
+            font-size: 18px;
+            color: black;
+            font-family: Poppins;
+
+            font-weight: 500;
+            line-height: 27px;
+            letter-spacing: 0em;
+
+
+        }
+
+        h4 {
+            height: 42.89684295654297px;
+            width: 283px;
+            left: 177px;
+            top: 740px;
+            border-radius: nullpx;
+            font-family: Poppins;
+            font-size: 16px;
+            font-weight: 600;
+            line-height: 23px;
+            letter-spacing: 0em;
+            text-align: left;
+            color: black;
+
+        }
+
+        p {
+            height: 45px;
+            left: 176px;
+            top: 806px;
+            border-radius: nullpx;
+            font-family: Poppins;
+            font-size: 16px;
+            font-weight: 400;
+            line-height: 24px;
+            letter-spacing: 0em;
+            text-align: left;
+            color: black;
+            width: 90%;
+
+        }
+    }
+
+    .box2 {
+        padding-top: 7px;
+        padding-left: 100px;
+        
+
+        a {
+            color: white;
+            border: 1px solid #1BDB38;
+            height: 62px;
+            width: 243px;
+            left: 237px;
+            top: 895px;
+            background-color: #1BDB38;
+            padding: 10px 30px;
+
+            i {
+                color: white;
+                padding-left: 5px;
+            }
+
+        }
+    }
+
+    .box-img {
+        padding-top: 50px;
+        
+
+
+    }
+
+    .box-img2 {
+        margin-top: 20px;
+        margin-left: 50px;
+        a {
+            color: white;
+            border: 1px solid #1BDB38;
+            height: 62px;
+            width: 243px;
+            left: 237px;
+            top: 895px;
+            background-color: #1BDB38;
+            padding: 10px 30px;
+
+            i {
+                color: white;
+                padding-left: 5px;
+            }
+
+        }
+    }
+
+}
