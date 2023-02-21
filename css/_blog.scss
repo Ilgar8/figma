@@ -1,11 +1,10 @@
 #july {
     padding-top: 50px;
-    padding-bottom: 50px;
-    
-    background-color: #E9EBE1;
+    padding-bottom: 20px;
+    background-color: #C8F1C6;
 
     .box1 {
-        margin-top: 100px;
+       
 
         .boximg {
             background-color: #FFFFFF;
@@ -65,7 +64,7 @@
     .box2 {
         padding-top: 7px;
         padding-left: 100px;
-        
+
 
         a {
             color: white;
@@ -87,7 +86,7 @@
 
     .box-img {
         padding-top: 50px;
-        
+
 
 
     }
@@ -95,6 +94,7 @@
     .box-img2 {
         margin-top: 20px;
         margin-left: 50px;
+
         a {
             color: white;
             border: 1px solid #1BDB38;
@@ -113,4 +113,61 @@
         }
     }
 
+}
+
+// july finished\\
+// ---------------------------------------\\
+@media (min-width:0px) and (max-width:576px) {
+    #header {
+        display: none;
+    }
+
+    #july {
+      
+
+
+        .box1 {
+            width: 100%;
+
+            .boximg {
+                width: 100%;
+                
+            }
+        }
+
+        .box2 {
+            font-size: 12px;
+        }
+
+        .box-img2 {
+            font-size: 12px;
+        }
+    }
+
+}
+
+@media (min-width:576px) and (max-width:776px) {
+    #header {
+        display: none;
+    }
+
+    #july {
+
+
+
+        .box1 {
+
+            .boximg {
+                width: 100%;
+            }
+        }
+
+        .box2 {
+            font-size: 12px;
+        }
+
+        .box-img2 {
+            font-size: 12px;
+        }
+    }
 }

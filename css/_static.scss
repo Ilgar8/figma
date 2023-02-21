@@ -1,0 +1,63 @@
+#header {
+    padding-top: 10px;
+
+    margin: auto;
+    background-color: #C8F1C6;
+
+
+
+    .box {
+        display: flex;
+        justify-content: space-between;
+        padding-left: 50px;
+
+
+
+        .logo {
+            display: flex;
+
+            img {
+                padding-right: 10px;
+            }
+
+            h1 {
+                display: flex;
+                align-items: center;
+            }
+        }
+
+        ul {
+            display: flex;
+            align-items: center;
+
+            li {
+                padding: 30px;
+                font-size: 20.33px;
+                height: 36px;
+                font-weight: 500;
+                line-height: 36px;
+                letter-spacing: 0em;
+                text-align: left;
+
+
+
+                a {
+                    color: #00000099;
+                }
+
+
+
+                i {
+                    padding: 5px;
+                    color: #00000099;
+
+
+                }
+            }
+        }
+    }
+}
+
+// header finisheed\\
+// ==================================\\
+
